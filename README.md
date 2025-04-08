@@ -67,22 +67,23 @@ pip install pandas numpy matplotlib
 ```
 
 ## 📂 How to Run
-1. Download or place the dataset (french_cities.csv) in the project folder.
 
-2. Run the script:
+1. Download or place the dataset (`french_cities.csv`) in the project folder.
+
+2. Open and run the Jupyter Notebook (`Data Visualization french_cities.ipynb`):
 
 ```bash
-python cities_visualization.py
+jupyter notebook
 ```
 
-This will generate a scatter plot showing the cities with population > 10,000, with area and population visualized.
+This will open the notebook in your browser, and you can execute the code cells to generate the scatter plot showing the cities with population > 10,000, with area and population visualized.
 
 ## 🎯 Future Improvements
-_ Interactive visualization using Plotly
 
-_ Advanced filtering options (e.g., based on altitude, density)
-
-_ Additional data analysis (e.g., identifying urban vs rural trends)
+- Interactive visualization using Plotly
+- Advanced filtering options (e.g., based on altitude, density)
+- Additional data analysis (e.g., identifying urban vs rural trends)
 
 ## 🔑 License
+
 This project is open source and available under the MIT License. See the LICENSE file for more details.
