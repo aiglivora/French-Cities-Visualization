@@ -56,7 +56,7 @@ _ Understand how to handle real-world datasets and represent them meaningfully
 
 ```bash
 
-git clone https://github.com/yourusername/French-Cities.git
+git clone https://github.com/yourusername/French-Cities-Visualization.git
 ```
 
 2.Install the required dependencies:
