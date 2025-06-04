@@ -86,4 +86,4 @@ This will open the notebook in your browser, and you can execute the code cells 
 
 ## 🔑 License
 
-This project is open source and available under the MIT License. See the LICENSE file for more details.
+This project is open source and available under the MIT License. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
